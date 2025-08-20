@@ -642,11 +642,6 @@ $env:AZURE_DEVOPS_COLLECTION_URL = "https://dev.azure.com/my-org"
 $env:AZURE_DEVOPS_PAT = "your-token-here"
 ```
 
-For Siemens Healthineers:
-```powershell
-$env:AZURE_DEVOPS_COLLECTION_URL = "https://apollo.siemens-healthineers.com/tfs/IKM.TPC.Projects/"
-```
-
 On Linux/macOS:
 
 ```bash
