@@ -1,0 +1,9 @@
+{
+  "servers": { 
+    "demoServer": { 
+      "type": "stdio",  
+      "command": "dotnet",  
+      "args": ["run", "--project", "${workspaceFolder}/MCPServer/MCPServer.csproj"]  
+    }  
+  }  
+}
